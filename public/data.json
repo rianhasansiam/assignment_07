@@ -1,0 +1,135 @@
+[
+    {
+      "playerId": 1,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/6Hf45Cj/smeth.jpg",
+      "role": "Batsman",
+      "batting_bowling_type": "Right-Hand-Bat",
+      "bidding_price": "12000",
+      "rating": "9.8"
+    },
+    {
+      "playerId": 2,
+      "name": "Rohit Sharma",
+      "country": "India",
+      "image": "https://i.ibb.co.com/vmN7c0B/Rohit.jpg",
+      "role": "Batsman",
+      "batting_bowling_type": "Right-Hand-Bat",
+      "bidding_price": "34000",
+      "rating": "8.0"
+    },
+    {
+      "playerId": 3,
+      "name": "Chris Gayle",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/wrV0qLw/creis-gail.jpg",
+      "role": "Batsman",
+      "batting_bowling_type": "Left-Hand-Bat",
+      "bidding_price": "28000",
+      "rating": "8.3"
+    },
+    {
+      "playerId": 4,
+      "name": "Hasan Ali",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/8YgjX72/hasan-ali.jpg",
+      "role": "Bowler",
+      "batting_bowling_type": "Right-Arm-Fast",
+      "bidding_price": "19000",
+      "rating": "7.5"
+    },
+    {
+      "playerId": 5,
+      "name": "Carlos Brathwaite",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/Gn3DqFp/brathwet.jpg",
+      "role": "Batsman",
+      "batting_bowling_type": "Left-Hand-Bat",
+      "bidding_price": "24000",
+      "rating": "9.0"
+    },
+    {
+      "playerId": 6,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/VHXdhNF/warner.jpg",
+      "role": "Batsman",
+      "batting_bowling_type": "Right-Hand-Bat",
+      "bidding_price": "54000",
+      "rating": "8.8"
+    },
+    {
+      "playerId": 7,
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/41yKWmq/mushfiq.jpg",
+      "role": "Wicket-Keeper",
+      "batting_bowling_type": "Right-Hand-Bat",
+      "bidding_price": "54000",
+      "rating": "8.6"
+    },
+    {
+      "playerId": 8,
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/pZGH3jv/mustafiz.jpg",
+      "role": "Bowler",
+      "batting_bowling_type": "Right-Arm-Fast",
+      "bidding_price": "85000",
+      "rating": "7.0"
+    },
+    {
+      "playerId": 9,
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/SQ0TpZZ/tamim.jpg",
+      "role": "Batsman",
+      "batting_bowling_type": "Right-Hand-Bat",
+      "bidding_price": "90000",
+      "rating": "8.3"
+    },
+    {
+      "playerId": 10,
+      "name": "MS Dhoni",
+      "country": "India",
+      "image": "https://i.ibb.co.com/nQ6SPrG/dhoni.jpg",
+      "role": "Wicket-Keeper",
+      "batting_bowling_type": "Left-Hand-Bat",
+      "bidding_price": "13000",
+      "rating": "9.8"
+    },
+    {
+      "playerId": 11,
+      "name": "Mehidy Hasan Miraz",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/ZKbc68b/mehedi.jpg",
+      "role": "All-Rounder",
+      "batting_bowling_type": "Right-Arm-Spin",
+      "bidding_price": "62000",
+      "rating": "8.5"
+    },
+    {
+      "playerId": 12,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/6XKk3Lm/keim-william.jpg",
+      "role": "Batsman",
+      "batting_bowling_type": "Left-Hand-Bat",
+      "bidding_price": "53000",
+      "rating": "8.9"
+    }
+  ]
+  
+
+  
+
+
+
+
+
+
+
+
+
+

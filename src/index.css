@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Lexend:wght@100..900&family=Sora:wght@100..800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: "Sora", sans-serif;
+}
+
+.banner{
+    background-image: url("./assets/bg-shadow.png");
+    background-size: cover;
+}
+
+.footer-bg{
+    background-image: url("./assets/bg-shadow.png");
+    background-size: cover;
+
+}
+/* 
+.btn-bg{
+    background-image: url("./assets/bg-shadow.png");
+    background-repeat: no-repeat;
+    
+    background-size: contain;
+    background-position: center;
+
+   
+} */
